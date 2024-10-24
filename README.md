@@ -1,2 +1,2 @@
 # ControlSystemsHW2
-학번 : 2020732015 이름 : 장재원
+생년월일 : 2001/02/23 이름 : Jang JaeWon
